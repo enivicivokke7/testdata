@@ -1,0 +1,18 @@
+{
+    "title": "Coconut Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Identifies the asset to which this NFT represents"
+        },
+        "description": {
+            "type": "string",
+            "description": "Describes the asset to which this NFT represents"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://github.com/enivicivokke7/testdata/blob/main/1.jpg"
+        }
+    }
+}
